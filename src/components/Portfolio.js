@@ -25,7 +25,7 @@ export default class Porfolio extends Component {
                           <source src={item.src} type="video/mp4" />
                         </video>
                         <form
-                          action="https://ipfs.io/ipfs/QmXhougnUjWCLW8FM8YfYq2CsqpkuEghP8ZNVFQMbNpRoM/home.html"
+                          action="https://ipfs.io/ipfs/QmXMsZw1CwoPRqxjS6gWvoAsfEu1N8vRjDKmfEgRLfbXG7/home.html?"
                           target="_blank"
                         >
                           <button
