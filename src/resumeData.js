@@ -1,5 +1,6 @@
 import bot from "./videos/bot.mp4";
 import jobify from "./videos/jobify.mp4";
+import tictactoe from "./videos/tictactoe-preview.mp4";
 
 let resumeData = {
   imagebaseurl: "https://SevgiSr.github.io/",
@@ -66,13 +67,22 @@ let resumeData = {
     {
       name: "Face Swap Bot",
       description: "ML Discord Bot",
+      url:
+        "https://ipfs.io/ipfs/QmXhougnUjWCLW8FM8YfYq2CsqpkuEghP8ZNVFQMbNpRoM/home.html",
       src: bot,
     },
-    /* {
+    {
       name: "Website",
       description: "Job Tracker",
+      url: "https://sevgi-jobify-app.herokuapp.com/landing",
       src: jobify,
-    }, */
+    },
+    {
+      name: "Tic-Tac-Toe AI",
+      description: "AI that plays Tic-Tac-Toe against humans",
+      url: "https://github.com/SevgiSr/tictactoe",
+      src: tictactoe,
+    },
   ],
   certificates: [
     {
